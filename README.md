@@ -5,7 +5,6 @@ Task is to build a model that predicts the total ride duration of taxi trips in 
 
 
 
-
  
 ![image](https://camo.githubusercontent.com/f4b14c840fba3517a77fcc1ca2cb084771586a59d2593a11b8edd194a3d9e6dc/687474703a2f2f692e68756666706f73742e636f6d2f67656e2f333131383231382f696d616765732f6f2d4e45572d594f524b2d544158492d66616365626f6f6b2e6a7067)
 
