@@ -141,5 +141,6 @@ Task is to build a model that predicts the total ride duration of taxi trips in 
 
 
 
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
